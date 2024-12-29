@@ -1,5 +1,5 @@
 
-# [Refokus UI Clone](https://refokus-work-page.netlify.app/)
+# [Refokus Clone](https://refokus-work-page.netlify.app/)
 
 This is a **frontend clone** of the official [Refokus](https://refokus.io/) website, built using **React**. It replicates the user interface and animations of the original website, aiming to provide a seamless user experience identical to the original.
 
@@ -36,7 +36,6 @@ Follow these steps to get the project up and running on your local machine:
    git clone https://github.com/OmkarGhadge24/Refokus-Clone.git
 
    cd Refokus-Clone
- 
 
 2. **Install dependencies:**
 
