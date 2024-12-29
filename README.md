@@ -34,11 +34,9 @@ Follow these steps to get the project up and running on your local machine:
 
    ```bash
    git clone https://github.com/OmkarGhadge24/Refokus-Clone.git
-  ```
 
-   ```bash
    cd Refokus-Clone
-   ```
+ 
 
 2. **Install dependencies:**
 
